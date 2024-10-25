@@ -39,4 +39,6 @@ let str2 = "choudhary"
 // console.log(1+"2");
 // console.log("1"+2+2); ==> 122 
 // console.log(1+2 +"2"); ==> 32
- 
+
+
+// for more knoledge go ====>>> " mdn web document js"
